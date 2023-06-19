@@ -2,4 +2,4 @@ langchain
 openai
 constants
 chainlit
--v .
+-e .
