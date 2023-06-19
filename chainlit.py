@@ -4,7 +4,7 @@ import chainlit as cl
 from constants import openai_key
 
 
-os.environ["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"] = openai_key
+os.environ["Enter your Open A.P.I. Key here"] = openai_key
 
 template = """Question: {question}
 
